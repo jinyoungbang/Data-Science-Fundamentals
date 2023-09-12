@@ -1,1 +1,11 @@
 */*_solution.py
+
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+*/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+.virtual_documents
+.virtual_documents/*
+*/.virtual_documents
+*/.virtual_documents/*
